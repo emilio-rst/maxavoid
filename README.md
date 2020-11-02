@@ -1,11 +1,11 @@
 # Max Avoid
-Max avoid is a game developed with PhaserJs.
+Max avoid is a game developed with PhaserJS.
 
 This was developed separating the logic in entities, components and systems.
 
 *Entities:* Objects of the game built with the components using composition pattern.
 
-*Components:* Add functionality to the entities.
+*Components:* Add functionalities to the entities.
 
 *Systems:* Mediators between the entities. They know how the entities should interact.
 
