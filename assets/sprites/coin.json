@@ -1,0 +1,44 @@
+{"frames" : {
+	"coin_01": {
+		"frame" : {"x" : 180, "y" : 0, "w" : 36, "h" : 36},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :36,"h" : 36},
+		"sourceSize": {"w" : 36, "h" : 36}
+	},
+	"coin_02": {
+		"frame" : {"x" : 144, "y" : 0, "w" : 36, "h" : 36},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :36,"h" : 36},
+		"sourceSize": {"w" : 36, "h" : 36}
+	},
+	"coin_03": {
+		"frame" : {"x" : 108, "y" : 0, "w" : 36, "h" : 36},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :36,"h" : 36},
+		"sourceSize": {"w" : 36, "h" : 36}
+	},
+	"coin_04": {
+		"frame" : {"x" : 72, "y" : 0, "w" : 36, "h" : 36},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :36,"h" : 36},
+		"sourceSize": {"w" : 36, "h" : 36}
+	},
+	"coin_05": {
+		"frame" : {"x" : 36, "y" : 0, "w" : 36, "h" : 36},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :36,"h" : 36},
+		"sourceSize": {"w" : 36, "h" : 36}
+	},
+	"coin_06": {
+		"frame" : {"x" : 0, "y" : 0, "w" : 36, "h" : 36},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :36,"h" : 36},
+		"sourceSize": {"w" : 36, "h" : 36}
+	}
+}}

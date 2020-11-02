@@ -1,0 +1,149 @@
+{"frames" : {
+	"fuel_bar_9": {
+		"frame" : {"x" : 0, "y" : 0, "w" : 117, "h" : 43},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :117,"h" : 43},
+		"sourceSize": {"w" : 117, "h" : 43}
+	},
+	"fuel_bar_8": {
+		"frame" : {"x" : 0, "y" : 43, "w" : 117, "h" : 43},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :117,"h" : 43},
+		"sourceSize": {"w" : 117, "h" : 43}
+	},
+	"fuel_bar_7": {
+		"frame" : {"x" : 0, "y" : 86, "w" : 117, "h" : 43},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :117,"h" : 43},
+		"sourceSize": {"w" : 117, "h" : 43}
+	},
+	"fuel_bar_6": {
+		"frame" : {"x" : 0, "y" : 129, "w" : 117, "h" : 43},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :117,"h" : 43},
+		"sourceSize": {"w" : 117, "h" : 43}
+	},
+	"fuel_bar_5": {
+		"frame" : {"x" : 0, "y" : 172, "w" : 117, "h" : 43},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :117,"h" : 43},
+		"sourceSize": {"w" : 117, "h" : 43}
+	},
+	"fuel_bar_4": {
+		"frame" : {"x" : 0, "y" : 215, "w" : 117, "h" : 43},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :117,"h" : 43},
+		"sourceSize": {"w" : 117, "h" : 43}
+	},
+	"fuel_bar_3": {
+		"frame" : {"x" : 0, "y" : 258, "w" : 117, "h" : 43},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :117,"h" : 43},
+		"sourceSize": {"w" : 117, "h" : 43}
+	},
+	"fuel_bar_2": {
+		"frame" : {"x" : 0, "y" : 301, "w" : 117, "h" : 43},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :117,"h" : 43},
+		"sourceSize": {"w" : 117, "h" : 43}
+	},
+	"fuel_bar_20": {
+		"frame" : {"x" : 0, "y" : 344, "w" : 117, "h" : 43},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :117,"h" : 43},
+		"sourceSize": {"w" : 117, "h" : 43}
+	},
+	"fuel_bar_1": {
+		"frame" : {"x" : 0, "y" : 387, "w" : 117, "h" : 43},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :117,"h" : 43},
+		"sourceSize": {"w" : 117, "h" : 43}
+	},
+	"fuel_bar_19": {
+		"frame" : {"x" : 0, "y" : 430, "w" : 117, "h" : 43},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :117,"h" : 43},
+		"sourceSize": {"w" : 117, "h" : 43}
+	},
+	"fuel_bar_18": {
+		"frame" : {"x" : 0, "y" : 473, "w" : 117, "h" : 43},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :117,"h" : 43},
+		"sourceSize": {"w" : 117, "h" : 43}
+	},
+	"fuel_bar_17": {
+		"frame" : {"x" : 0, "y" : 516, "w" : 117, "h" : 43},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :117,"h" : 43},
+		"sourceSize": {"w" : 117, "h" : 43}
+	},
+	"fuel_bar_16": {
+		"frame" : {"x" : 0, "y" : 559, "w" : 117, "h" : 43},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :117,"h" : 43},
+		"sourceSize": {"w" : 117, "h" : 43}
+	},
+	"fuel_bar_15": {
+		"frame" : {"x" : 0, "y" : 602, "w" : 117, "h" : 43},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :117,"h" : 43},
+		"sourceSize": {"w" : 117, "h" : 43}
+	},
+	"fuel_bar_14": {
+		"frame" : {"x" : 0, "y" : 645, "w" : 117, "h" : 43},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :117,"h" : 43},
+		"sourceSize": {"w" : 117, "h" : 43}
+	},
+	"fuel_bar_13": {
+		"frame" : {"x" : 0, "y" : 688, "w" : 117, "h" : 43},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :117,"h" : 43},
+		"sourceSize": {"w" : 117, "h" : 43}
+	},
+	"fuel_bar_12": {
+		"frame" : {"x" : 0, "y" : 731, "w" : 117, "h" : 43},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :117,"h" : 43},
+		"sourceSize": {"w" : 117, "h" : 43}
+	},
+	"fuel_bar_11": {
+		"frame" : {"x" : 0, "y" : 774, "w" : 117, "h" : 43},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :117,"h" : 43},
+		"sourceSize": {"w" : 117, "h" : 43}
+	},
+	"fuel_bar_10": {
+		"frame" : {"x" : 0, "y" : 817, "w" : 117, "h" : 43},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :117,"h" : 43},
+		"sourceSize": {"w" : 117, "h" : 43}
+	},
+	"fuel_bar_0": {
+		"frame" : {"x" : 0, "y" : 860, "w" : 117, "h" : 43},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :117,"h" : 43},
+		"sourceSize": {"w" : 117, "h" : 43}
+	}
+}}

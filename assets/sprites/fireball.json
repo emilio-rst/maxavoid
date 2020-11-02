@@ -1,0 +1,30 @@
+{"frames" : {
+	"fireball_01": {
+		"frame" : {"x" : 162, "y" : 0, "w" : 54, "h" : 62},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :54,"h" : 62},
+		"sourceSize": {"w" : 54, "h" : 62}
+	},
+	"fireball_02": {
+		"frame" : {"x" : 108, "y" : 0, "w" : 54, "h" : 62},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :54,"h" : 62},
+		"sourceSize": {"w" : 54, "h" : 62}
+	},
+	"fireball_03": {
+		"frame" : {"x" : 54, "y" : 0, "w" : 54, "h" : 62},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :54,"h" : 62},
+		"sourceSize": {"w" : 54, "h" : 62}
+	},
+	"fireball_04": {
+		"frame" : {"x" : 0, "y" : 0, "w" : 54, "h" : 62},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :54,"h" : 62},
+		"sourceSize": {"w" : 54, "h" : 62}
+	}
+}}

@@ -1,0 +1,16 @@
+{"frames" : {
+	"game_over_02": {
+		"frame" : {"x" : 0, "y" : 0, "w" : 529, "h" : 119},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :529,"h" : 119},
+		"sourceSize": {"w" : 529, "h" : 119}
+	},
+	"game_over_01": {
+		"frame" : {"x" : 0, "y" : 119, "w" : 529, "h" : 119},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :529,"h" : 119},
+		"sourceSize": {"w" : 529, "h" : 119}
+	}
+}}

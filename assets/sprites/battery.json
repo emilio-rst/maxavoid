@@ -1,0 +1,30 @@
+{"frames" : {
+	"battery_01": {
+		"frame" : {"x" : 123, "y" : 0, "w" : 41, "h" : 61},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :41,"h" : 61},
+		"sourceSize": {"w" : 41, "h" : 61}
+	},
+	"battery_02": {
+		"frame" : {"x" : 82, "y" : 0, "w" : 41, "h" : 61},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :41,"h" : 61},
+		"sourceSize": {"w" : 41, "h" : 61}
+	},
+	"battery_03": {
+		"frame" : {"x" : 41, "y" : 0, "w" : 41, "h" : 61},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :41,"h" : 61},
+		"sourceSize": {"w" : 41, "h" : 61}
+	},
+	"battery_04": {
+		"frame" : {"x" : 0, "y" : 0, "w" : 41, "h" : 61},
+		"rotated" : false,
+		"trimmed" : false,
+		"spriteSourceSize" : {"x" : 0, "y" : 0, "w" :41,"h" : 61},
+		"sourceSize": {"w" : 41, "h" : 61}
+	}
+}}
